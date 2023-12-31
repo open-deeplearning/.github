@@ -1,3 +1,5 @@
-Open DeepLearning is a community devoted to enhancing the accessibility of AI education for everyone. Operating as an open-source initiative, we provide free learning resources for individuals aiming to understand and develop AI-powered products.
+Open DeepLearning is a collaborative open-source community committed to improving the accessibility of AI education for all.
+
+We offer complimentary learning resources for individuals seeking to understand and build AI-driven products.
 
 Join our [Discord community](https://discord.com/invite/sPEeV3E7tS)
